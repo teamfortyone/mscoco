@@ -7,9 +7,10 @@
     Download and let it run. Select Visual C++ Build tools (the first option) and let it download and install (total size is ~4.6GB, so kick back and relax...)
 
 ## Setup
-
-1. `python -m venv venv`
-2. `.\venv\Scripts\activate`
-3. `pip install -r requirements.txt`
-4. `jupyter lab`
-5. Experiment and attempt to load all images and captions with the `pycocotools` API library. Use `pycocoDemo` notebook for reference.
+1. Please download, unzip, and place the images in: coco/images/
+2. Please download and place the annotations in: coco/annotations/
+3. `python -m venv venv`
+4. `.\venv\Scripts\activate`
+5. `pip install -r requirements.txt`
+6. `jupyter lab`
+7. Experiment and attempt to load all images and captions with the `pycocotools` API library. Use `pycocoDemo` notebook for reference.

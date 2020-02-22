@@ -136,3 +136,4 @@ dmypy.json
 .vscode/
 
 COCO Dataset 2014/
+coco/

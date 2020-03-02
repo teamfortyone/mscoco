@@ -4,3 +4,4 @@
 | Unique Words  |1665|6321|
 | Total Captions  |30000|414108|
 | Maximum Caption Length|39|52|
+| Embedding Matrix Size | 3.81MB | 14.4MB |

@@ -148,3 +148,4 @@ train_image_extracted.pkl
 pycocoImageEmbedding.py
 
 glove/
+glove_vectors.pkl

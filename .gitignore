@@ -144,7 +144,10 @@ pycocoDemo.ipynb
 flickr/Image Embedding.ipynb
 
 flickr/dataset preperation.ipynb
+train_image_extracted.pkl
+pycocoImageEmbedding.py
 
 glove/
+glove_vectors.pkl
 
 model_weights/

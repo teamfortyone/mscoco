@@ -151,3 +151,11 @@ glove/
 glove_vectors.pkl
 
 model_weights/
+
+train_set/
+
+validation_set/
+
+MS-COCO InceptionV3.ipynb
+
+Untitled.ipynb

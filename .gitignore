@@ -159,3 +159,4 @@ validation_set/
 MS-COCO InceptionV3.ipynb
 
 Untitled.ipynb
+val_set_feature_matrix.pkl
